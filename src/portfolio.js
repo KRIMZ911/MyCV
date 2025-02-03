@@ -141,8 +141,8 @@ const educationInfo = {
       schoolName: "Glasgow International College",
       logo: require("./assets/images/stanfordLogo.png"),
       subHeader: "Bachelor of Science in Computer Science",
-      duration: "September 2013 - April 2017",
-      desc: "Ranked top 10% in the program. Took courses about Software Engineering, Web Security, Operating Systems, ...",
+      duration: "September 2018 - April 2019",
+      desc: "Stuided on fundamentals here. Nothing crazy just basic A levels.",
       descBullets: ["Lorem ipsum dolor sit amet, consectetur adipiscing elit"]
     }
   ]
