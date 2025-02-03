@@ -1,13 +1,14 @@
 {
   "files": {
     "main.css": "/MyCV/static/css/main.eb86db93.css",
-    "main.js": "/MyCV/static/js/main.e14b22f9.js",
+    "main.js": "/MyCV/static/js/main.d23658a5.js",
     "static/css/64.bba8fa55.chunk.css": "/MyCV/static/css/64.bba8fa55.chunk.css",
     "static/js/64.56dc6704.chunk.js": "/MyCV/static/js/64.56dc6704.chunk.js",
     "static/css/769.b3cbb36b.chunk.css": "/MyCV/static/css/769.b3cbb36b.chunk.css",
     "static/js/769.bda0d7b7.chunk.js": "/MyCV/static/js/769.bda0d7b7.chunk.js",
     "static/media/stanfordLogo.png": "/MyCV/static/media/stanfordLogo.5a8e3a0a00949c93a9b8.png",
     "static/media/Montserrat-Regular.ttf": "/MyCV/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/resume.pdf": "/MyCV/static/media/resume.72da499de4c29413f4e9.pdf",
     "static/media/Agustina.woff": "/MyCV/static/media/Agustina.eb0c59dda4cc308cba96.woff",
     "static/media/UofG_Coat_of_Arms.png": "/MyCV/static/media/UofG_Coat_of_Arms.e1a9d915ffa822698c80.png",
     "static/media/manOnTable.svg": "/MyCV/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
@@ -17,14 +18,13 @@
     "static/media/googleAssistantLogo.webp": "/MyCV/static/media/googleAssistantLogo.f720c71652579588524a.webp",
     "static/media/codeInLogo.webp": "/MyCV/static/media/codeInLogo.e41a71d512efeda2a55c.webp",
     "static/media/skill.svg": "/MyCV/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
-    "static/media/resume.pdf": "/MyCV/static/media/resume.f0f733dd3cd732b39262.pdf",
     "static/media/pwaLogo.webp": "/MyCV/static/media/pwaLogo.8bf2293da0ca66249e37.webp",
     "static/media/saayaHealthLogo.webp": "/MyCV/static/media/saayaHealthLogo.60b27d1f184fadfce43a.webp",
     "static/media/nextuLogo.webp": "/MyCV/static/media/nextuLogo.e033dbfa4c58c0a906aa.webp",
     "index.html": "/MyCV/index.html",
     "static/media/talksCardBack.svg": "/MyCV/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "main.eb86db93.css.map": "/MyCV/static/css/main.eb86db93.css.map",
-    "main.e14b22f9.js.map": "/MyCV/static/js/main.e14b22f9.js.map",
+    "main.d23658a5.js.map": "/MyCV/static/js/main.d23658a5.js.map",
     "64.bba8fa55.chunk.css.map": "/MyCV/static/css/64.bba8fa55.chunk.css.map",
     "64.56dc6704.chunk.js.map": "/MyCV/static/js/64.56dc6704.chunk.js.map",
     "769.b3cbb36b.chunk.css.map": "/MyCV/static/css/769.b3cbb36b.chunk.css.map",
@@ -32,6 +32,6 @@
   },
   "entrypoints": [
     "static/css/main.eb86db93.css",
-    "static/js/main.e14b22f9.js"
+    "static/js/main.d23658a5.js"
   ]
 }
