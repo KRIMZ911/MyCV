@@ -1,5 +1,9 @@
 git add .
 git commit -m "Describe the change"
+
+git pull --rebase origin main
+git push origin main
+
 git push origin main
 
 npm run build
